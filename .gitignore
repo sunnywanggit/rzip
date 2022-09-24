@@ -1,0 +1,12 @@
+.idea
+/project/target/
+/project/Cargo.lock
+/project/**/*.rs.bk
+/project/result.zip
+/project/.idea
+
+/rlib/target/
+/rlib/Cargo.lock
+/rlib/**/*.rs.bk
+/rlib/result.zip
+/rlib/.idea
